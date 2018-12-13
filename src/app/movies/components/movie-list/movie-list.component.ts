@@ -2,7 +2,6 @@ import { Component, OnInit, ChangeDetectionStrategy } from '@angular/core';
 import { MoviesDetailsService } from '../../services/movies-details.service';
 import { MovieDetails } from '../../models/movie-details.model';
 import { map } from "rxjs/operators";
-import { Observable } from 'rxjs';
 import { Router } from '@angular/router';
 
 @Component({

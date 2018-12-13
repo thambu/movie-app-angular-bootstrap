@@ -7,6 +7,7 @@ import { MoviesDetailsService } from '../../services/movies-details.service';
 import { HttpClientModule } from '@angular/common/http';
 
 describe('MovieDetailsComponent', () => {
+  
   let component: MovieDetailsComponent;
   let service: MoviesDetailsService;
   let fixture: ComponentFixture<MovieDetailsComponent>;

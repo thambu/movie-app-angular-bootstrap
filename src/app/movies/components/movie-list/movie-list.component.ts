@@ -1,4 +1,4 @@
-import { Component, OnInit, ChangeDetectionStrategy } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { MoviesDetailsService } from '../../services/movies-details.service';
 import { MovieDetails } from '../../models/movie-details.model';
 import { map } from "rxjs/operators";
@@ -9,7 +9,9 @@ import { Router } from '@angular/router';
   templateUrl: './movie-list.component.html',
   styleUrls: ['./movie-list.component.css']
 })
+
 export class MovieListComponent implements OnInit {
+
   movies;
   selectedMovie:MovieDetails;
   searchText: string;

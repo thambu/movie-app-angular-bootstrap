@@ -14,6 +14,7 @@ exports.config = {
   directConnect: true,
   baseUrl: 'http://localhost:4200/',
   framework: 'jasmine',
+  rootElement: '*[ng-app]',
   jasmineNodeOpts: {
     showColors: true,
     defaultTimeoutInterval: 30000,

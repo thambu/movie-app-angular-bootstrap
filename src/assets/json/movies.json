@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Annihilation",
+    "image": "annihilation.jpg",
+    "rating": "6.9/10",
+    "genre": "Thriller/Fantasy",
+    "summary": "Based on Jeff VanderMeer’s best-selling Southern Reach Trilogy, Annihilation stars Natalie Portman, Jennifer Jason Leigh, Gina Rodriguez, Tessa Thompson, Tuva Novotny and Oscar Isaac. It was written and directed by Alex Garland (Ex Machina, 28 Days Later)."
+  },
+  {
+    "name": "Black Panther",
+    "image": "blackPanther.jpg",
+    "rating": "7.4/10",
+    "genre": "Fantasy/Science Fiction",
+    "summary": "After the death of his father, T'Challa returns home to the African nation of Wakanda to take his rightful place as king. When a powerful enemy suddenly reappears, T'Challa's mettle as king -- and as Black Panther -- gets tested when he's drawn into a conflict that puts the fate of Wakanda and the entire world at risk. Faced with treachery and danger, the young king must rally his allies and release the full power of Black Panther to defeat his foes and secure the safety of his people."
+  },
+  {
+    "name": "Blade Runner",
+    "image": "bladeRunner.jpg",
+    "rating": "8.2/10",
+    "genre": "Fantasy/Science Fiction",
+    "summary": "Deckard (Harrison Ford) is forced by the police Boss (M. Emmet Walsh) to continue his old job as Replicant Hunter. His assignment: eliminate four escaped Replicants from the colonies who have returned to Earth. Before starting the job, Deckard goes to the Tyrell Corporation and he meets Rachel (Sean Young), a Replicant girl he falls in love with."
+  },
+  {
+    "name": "How to Train Your Dragon",
+    "image": "dragon.jpg",
+    "rating": "8.1/10",
+    "genre": "Drama/Fantasy",
+    "summary": "Hiccup (Jay Baruchel) is a Norse teenager from the island of Berk, where fighting dragons is a way of life. His progressive views and weird sense of humor make him a misfit, despite the fact that his father (Gerard Butler) is chief of the clan. Tossed into dragon-fighting school, he endeavors to prove himself as a true Viking, but when he befriends an injured dragon he names Toothless, he has the chance to plot a new course for his people's future."
+  },
+  {
+    "name": "Dunkirk",
+    "image": "dunkirk.jpg",
+    "rating": "7.9/10",
+    "genre": "Drama/Thriller",
+    "summary": "In May 1940, Germany advanced into France, trapping Allied troops on the beaches of Dunkirk. Under air and ground cover from British and French forces, troops were slowly and methodically evacuated from the beach using every serviceable naval and civilian vessel that could be found. At the end of this heroic mission, 330,000 French, British, Belgian and Dutch soldiers were safely evacuated."
+  },
+  {
+    "name": "Get Out",
+    "image": "getOut.jpg",
+    "rating": "7.7/10",
+    "genre": "Mystery/Thriller",
+    "summary": "Now that Chris (Daniel Kaluuya) and his girlfriend, Rose (Allison Williams), have reached the meet-the-parents milestone of dating, she invites him for a weekend getaway upstate with Missy and Dean. At first, Chris reads the family's overly accommodating behavior as nervous attempts to deal with their daughter's interracial relationship, but as the weekend progresses, a series of increasingly disturbing discoveries lead him to a truth that he never could have imagined."
+  },
+  {
+    "name": "Iron Man",
+    "image": "ironMan.jpg",
+    "rating": "7.9/10",
+    "genre": "Science Fiction/Thriller",
+    "summary": "A billionaire industrialist and genius inventor, Tony Stark (Robert Downey Jr.), is conducting weapons tests overseas, but terrorists kidnap him to force him to build a devastating weapon. Instead, he builds an armored suit and upends his captors. Returning to America, Stark refines the suit and uses it to combat crime and terrorism."
+  },
+  {
+    "name": "Lady Bird",
+    "image": "ladyBird.jpg",
+    "rating": "7.4/10",
+    "genre": "Drama/Comedy-drama",
+    "summary": "Marion McPherson, a nurse, works tirelessly to keep her family afloat after her husband loses his job. She also maintains a turbulent bond with a teenage daughter who is just like her: loving, strong-willed and deeply opinionated."
+  },
+  {
+    "name": "Sherlock Holmes",
+    "image": "sherlockHolmes.jpg",
+    "rating": "7.6/10",
+    "genre": "Crime/Thriller",
+    "summary": "When a string of brutal murders terrorizes London, it doesn't take long for legendary detective Sherlock Holmes (Robert Downey Jr.) and his crime-solving partner, Dr. Watson (Jude Law), to find the killer, Lord Blackwood (Mark Strong). A devotee of the dark arts, Blackwood has a bigger scheme in mind, and his execution plays right into his plans. The game is afoot when Blackwood seems to rise from the grave, plunging Holmes and Watson into the world of the occult and strange technologies."
+  },
+  {
+    "name": "Spider-Man",
+    "image": "spiderMan.jpg",
+    "rating": "7.3/10",
+    "genre": "Fantasy/Action",
+    "summary": "\"Spider-Man\" centers on student Peter Parker (Tobey Maguire) who, after being bitten by a genetically-altered spider, gains superhuman strength and the spider-like ability to cling to any surface. He vows to use his abilities to fight crime, coming to understand the words of his beloved Uncle Ben: \"With great power comes great responsibility.\""
+  },
+  {
+    "name": "Star Wars: The Phantom Menace",
+    "image": "starWars.jpg",
+    "rating": "6.5/10",
+    "genre": "Fantasy/Science Fiction",
+    "summary": "Obi-Wan Kenobi (Ewan McGregor) is a young apprentice Jedi knight under the tutelage of Qui-Gon Jinn (Liam Neeson) ; Anakin Skywalker (Jake Lloyd), who will later father Luke Skywalker and become known as Darth Vader, is just a 9-year-old boy. When the Trade Federation cuts off all routes to the planet Naboo, Qui-Gon and Obi-Wan are assigned to settle the matter."
+  },
+  {
+    "name": "The Shape of Water",
+    "image": "theShapeOfWater.jpg",
+    "rating": "7.4/10",
+    "genre": "Drama/Thriller",
+    "summary": "Elisa is a mute, isolated woman who works as a cleaning lady in a hidden, high-security government laboratory in 1962 Baltimore. Her life changes forever when she discovers the lab's classified secret -- a mysterious, scaled creature from South America that lives in a water tank. As Elisa develops a unique bond with her new friend, she soon learns that its fate and very survival lies in the hands of a hostile government agent and a marine biologist."
+  },
+  {
+    "name": "Thor",
+    "image": "thor.jpg",
+    "rating": "7/10",
+    "genre": "Fantasy/Science Fiction",
+    "summary": "As the son of Odin (Anthony Hopkins), king of the Norse gods, Thor (Chris Hemsworth) will soon inherit the throne of Asgard from his aging father. However, on the day that he is to be crowned, Thor reacts with brutality when the gods' enemies, the Frost Giants, enter the palace in violation of their treaty. As punishment, Odin banishes Thor to Earth. While Loki (Tom Hiddleston), Thor's brother, plots mischief in Asgard, Thor, now stripped of his powers, faces his greatest threat."
+  },
+  {
+    "name": "Transformers: Revenge of the Fallen",
+    "image": "transformers.jpg",
+    "rating": "7.1/10",
+    "genre": "Science Fiction/Thriller",
+    "summary": "Two years after he and his Autobot friends saved the Earth from the Decepticons, Sam Witwicky (Shia LaBeouf) faces a new battle: college. Meanwhile, Optimus Prime and the Autobots are working with a secret military organization and trying to make a home for themselves on Earth. When an ancient Decepticon known as The Fallen rises up to wreak vengeance, Sam and his girlfriend, Mikaela, must figure out the history of the Transformers on Earth and find a way to defeat The Fallen once and for all."
+  },
+  {
+    "name": "Wonder Woman",
+    "image": "wonderWoman.jpg",
+    "rating": "7.5/10",
+    "genre": "Fantasy/Science Fiction",
+    "summary": "Before she was Wonder Woman (Gal Gadot), she was Diana, princess of the Amazons, trained to be an unconquerable warrior. Raised on a sheltered island paradise, Diana meets an American pilot (Chris Pine) who tells her about the massive conflict that's raging in the outside world. Convinced that she can stop the threat, Diana leaves her home for the first time. Fighting alongside men in a war to end all wars, she finally discovers her full powers and true destiny."
+  },
+  {
+    "name": "X-Men",
+    "image": "xMen.jpg",
+    "rating": "7.4/10",
+    "genre": "Fantasy/Science Fiction",
+    "summary": "They are children of the atom, homo superior, the next link in the chain of evolution. Each was born with a unique genetic mutation, which at puberty manifested itself in extraordinary powers. In a world filled with hate and prejudice, they are feared by those who cannot accept their differences. Led by Xavier the X-Men fight to protect a world that fears them. They are locked in a battle with former colleague and friend, Magneto who believes humans and mutants should never co-exist."
+  }
+]

@@ -7,7 +7,7 @@ describe('Movie App', () => {
     page = new AppPage();
   });
 
-  it('should display welcome message', () => {
+  it('should display title', () => {
     page.getTitle();
     expect(page.getTitle()).toEqual('Movies');
   });

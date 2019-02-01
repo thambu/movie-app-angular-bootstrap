@@ -11,9 +11,11 @@ const httpOptions = {
 @Injectable()
 export class MoviesDetailsService {
 
+  private movie_url = "assets/json/movies.json"
+
   constructor(private http:HttpClient) { }
 
   public getMovies(): Observable<MovieDetails[]> {
-    return this.http.get<MovieDetails[]>('https://spring-movies-cf.cfapps.io/');
+    return this.http.get<MovieDetails[]>(this.movie_url);
   }
 }

@@ -9,7 +9,7 @@ import { AppComponent } from './app.component';
 import { MovieDetailsComponent } from './movies/components/movie-details/movie-details.component';
 import { MovieListComponent } from './movies/components/movie-list/movie-list.component';
 
-import { FilterPipe }from './filter.pipe';
+import { FilterPipe } from './filter.pipe';
 
 @NgModule({
   declarations: [
@@ -27,4 +27,5 @@ import { FilterPipe }from './filter.pipe';
   providers: [],
   bootstrap: [AppComponent]
 })
+
 export class AppModule { }
